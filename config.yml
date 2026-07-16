@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "/"
+title: Prof. Anat Ben-David
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -12,25 +12,21 @@ taxonomies:
 
 menu:
     main:
+        - name: Publications
+          url: publications/
+          weight: 1
         - name: Books
           url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Media
+          url: media/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
-
+        - name: Hebrew
+          url: he/
+          weight: 4
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "Associate Professor of Communication, The Open University of Israel."
+    author: Anat Ben-David
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -44,7 +40,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["publications", "book", "media", "Hebrew"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -54,58 +50,32 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Professor Anat Ben-David
+          subtitle: "Welcome to my personal website. I am an Associate Professor of Communication at the Open University of Israel. My research examines the intersections of digital media, memory, and politics, with a focus on social media, web archives, and the infrastructures that shape online knowledge. I employ digital and computational methods to study how platforms mediate collective memory, historical narratives, and sociotechnical power."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-
+            - name: Publications
+              url: publications/
+            - name: Book
+              url: book/
+            - name: Media
+              url: media/
+            - name: Hebrew
+              url: hebrew/
     socialIcons:
-        - name: CV
-          url: cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: mailto:anatbd@openu.ac.il
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
-
+          url: https://scholar.google.com/citations?user=O3oL7qsAAAAJ&hl
     assets:
         disableScrollBarStyle: true
     cover:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Prof. Anat Ben-David"
       icon: favicon.ico
       iconHeight: 18
 
