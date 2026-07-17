@@ -78,8 +78,6 @@ params:
           url: mailto:anatbd@openu.ac.il
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=O3oL7qsAAAAJ&hl=en
-        - name: Twitter
-          url: https://twitter.com/anatbd
         - name: Homepage
           url: http://www.openu.ac.il/en/personalsites/AnatBenDavid.aspx
 
