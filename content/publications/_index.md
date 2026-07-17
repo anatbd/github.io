@@ -3,7 +3,7 @@ title: "Publications"
 description: "Publications by Anat Ben-David"
 ---
 
-For the complete, continuously updated record — including citation counts — see my
+For the complete, continuously updated record, see my
 [Google Scholar profile](https://scholar.google.com/citations?user=O3oL7qsAAAAJ&hl=en).
 
 #### 2026
