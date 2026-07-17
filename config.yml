@@ -25,6 +25,8 @@ menu:
 params:
     description: "Personal academic website of Anat Ben-David, Associate Professor of Communication at the Open University of Israel."
     author: Anat Ben-David
+    # Free, cookie-less analytics via https://www.goatcounter.com — sign up, then put your site code here (the "yoursitecode" part of yoursitecode.goatcounter.com)
+    goatCounterSite: "anatbendavid"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
