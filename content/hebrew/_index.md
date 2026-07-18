@@ -7,6 +7,8 @@ aliases:
 
 <div lang="he" dir="rtl" style="text-align: right;">
 
+<img src="/anat-ben-david.jpg" alt="ענת בן-דוד" width="150" height="150" style="border-radius:50%;border:1px solid #ccc;">
+
 ### פרופ' ענת בן-דוד
 
  חוקרת תקשורת דיגיטלית במחלקה לסוציולוגיה, למדע המדינה ולתקשורת באוניברסיטה הפתוחה.
