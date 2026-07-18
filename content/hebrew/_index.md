@@ -1,6 +1,8 @@
 ---
 title: "עברית"
 description: "האתר האישי של פרופ' ענת בן-דוד"
+aliases:
+  - /he/
 ---
 
 <div lang="he" dir="rtl" style="text-align: right;">
