@@ -82,6 +82,9 @@ params:
       icon: favicon.ico
       iconHeight: 18
 
+    schema:
+      publisherType: "Person"
+
 markup:
     goldmark:
         renderer:
