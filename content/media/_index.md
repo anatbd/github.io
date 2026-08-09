@@ -3,6 +3,7 @@ title: "Media"
 description: "Media coverage and public commentary by Anat Ben-David"
 ---
 
+- Op-ed: Will the coming elections really be free? [The Seventh Eye](https://www.the7eye.org.il/588608), 01/07/2026.
 - New report reveals the data behind the decline in press freedom in Israel. [The Seventh Eye](https://www.the7eye.org.il/580306), 01/04/2025.
 - Op-ed: What happens at the polling station doesn't stay at the polling station. [The Seventh Eye](https://www.the7eye.org.il/581235), 24/03/2026.
 - Hacking, extortion, election interference: These are the tools used by Israel's agents of chaos and manipulation. [Haaretz.com](https://www.haaretz.com/israel-news/security-aviation/2023-02-15/ty-article-magazine/.premium/hacking-extortion-election-interference-the-toolkit-of-israels-agents-of-chaos/00000186-4aa6-d933-af9e-cbe7aa9c0000), 15/02/2023.
