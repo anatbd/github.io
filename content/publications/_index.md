@@ -8,6 +8,7 @@ For the complete, continuously updated record, see my
 
 #### 2026
 
+- Neiger, M., Ben-David, A., & Meyers, O. (2026). Elicited memory: Holocaust memory on social media between everyday discourse and crisis-driven intensification. *Memory, Mind & Media*, 5, e28.
 - Tsuriel, K., & Ben-David, A. (2026). Collectiveillance and the sociotechnical politics of protest drones. *Convergence*.
 
 #### 2025

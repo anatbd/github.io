@@ -50,7 +50,7 @@ params:
           enabled: true
           title: "Prof. Anat Ben-David"
           subtitle: |
-              Associate Professor of Communication at the Open University of Israel.
+              Professor of Communication at the Open University of Israel.
               My research examines the intersections of digital media, memory, and politics, with a focus on social media, web archives, and the infrastructures that shape online knowledge. I employ digital and computational methods to study how platforms mediate collective memory, historical narratives, and sociotechnical power.
           imageUrl: "anat-ben-david.jpg"
           imageWidth: 150
